@@ -32,7 +32,6 @@
       <br><br>
       Desarrollo de aplicación con un fuerte enfoque en la estructuración de componentes del frontend y conexión fluida con el backend.
       <br><br>
-      <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
     </td>
     <td width="50%" align="center">
       <h1 align="center">🌱 💻</h1>
@@ -52,7 +51,6 @@
       <br><br>
       Proyecto de análisis organizacional que incluye el diseño de marcos de seguridad de la información y diagramas de Ishikawa para la resolución de problemas empresariales.
       <br><br>
-      <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
     </td>
   </tr>
 </table>
@@ -66,7 +64,6 @@
       <br><br>
       Configuración, análisis de tráfico y resolución de fallos de conectividad (troubleshooting) en entornos simulados.
       <br><br>
-      <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
     </td>
     <td width="50%" align="center">
       <h1 align="center">🌐 🔌</h1>
