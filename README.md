@@ -35,8 +35,7 @@
       <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
     </td>
     <td width="50%" align="center">
-      <!-- REEMPLAZA ESTE ENLACE CON TU IMAGEN DE ECOHABIT -->
-      <img src="https://via.placeholder.com/300x150?text=Captura+de+EcoHabit" alt="Captura de EcoHabit" style="border-radius: 10px;" width="100%"/>
+      <h1 align="center">🌱 💻</h1>
     </td>
   </tr>
 </table>
@@ -46,8 +45,7 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <!-- REEMPLAZA ESTE ENLACE CON TU IMAGEN DE GOLDEN PIG -->
-      <img src="https://via.placeholder.com/300x150?text=Captura+de+Golden+Pig" alt="Captura de Golden Pig" style="border-radius: 10px;" width="100%"/>
+      <h1 align="center">🏢 🐖</h1>
     </td>
     <td valign="top" width="50%">
       <b>Golden Pig (Arquitectura de Negocio)</b>
@@ -71,8 +69,7 @@
       <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
     </td>
     <td width="50%" align="center">
-      <!-- REEMPLAZA ESTE ENLACE CON TU IMAGEN DE REDES -->
-      <img src="https://via.placeholder.com/300x150?text=Captura+de+Simulación+de+Red" alt="Captura de Simulación de Red" style="border-radius: 10px;" width="100%"/>
+      <h1 align="center">🌐 🔌</h1>
     </td>
   </tr>
 </table>
