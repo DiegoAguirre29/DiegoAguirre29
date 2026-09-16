@@ -24,4 +24,4 @@ Además de mi perfil técnico, cuento con experiencia previa en investigación e
 📫 **Conecta conmigo:**
 *   💼 [Mi LinkedIn](www.linkedin.com/in/diegoaguirre192)
 *   🌐 [Mi Portafolio Web](AQUÍ_IRÁ_EL_ENLACE_DE_TU_PÁGINA)
-*   ✉️ [Tu correo electrónico](diegoaguirre192@gmail.com)
+*   ✉️ [diegoaguirre192@gmail.com]
