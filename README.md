@@ -87,7 +87,7 @@
   <a href="https://www.linkedin.com/in/diegoaguirre192">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PÁGINA">
+  <a href="https://diegoaguirre29.github.io/portafolio-diego/#projects">
     <img src="https://img.shields.io/badge/Portafolio_Web-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio" />
   </a>
   <a href="mailto:diegoaguirre192@gmail.com">
