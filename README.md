@@ -22,6 +22,6 @@ Soy estudiante del séptimo ciclo de Ingeniería de Sistemas de Información en 
 Además de mi perfil técnico, cuento con experiencia previa en investigación estructurada y participaciones en debates competitivos, lo que me ha dado facilidad para la comunicación efectiva, el trabajo en equipo y la sustentación formal de proyectos ante jurados.
 
 📫 **Conecta conmigo:**
-*   💼 [Mi LinkedIn](www.linkedin.com/in/diegoaguirre192)
+*   💼 [Mi LinkedIn](https://www.linkedin.com/in/diegoaguirre192)
 *   🌐 [Mi Portafolio Web](AQUÍ_IRÁ_EL_ENLACE_DE_TU_PÁGINA)
-*   ✉️ [diegoaguirre192@gmail.com]
+*   ✉️ [diegoaguirre192@gmail.com](mailto:diegoaguirre192@gmail.com)
