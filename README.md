@@ -1,15 +1,25 @@
-# ¡Hola! Soy Diego 👋
+<h1 align="center">¡Hola! Soy Diego 👋</h1>
 
-Soy estudiante del séptimo ciclo de Ingeniería de Sistemas de Información en la UPC (perteneciente al décimo superior académico). Me considero un perfil altamente analítico, enfocado en la resolución de problemas y la optimización de recursos tecnológicos.
+<h3 align="center">Estudiante de Ingeniería de Sistemas de Información | Décimo Superior Académico</h3>
 
-🎯 **Mi objetivo:** Actualmente busco mi primera experiencia en prácticas pre-profesionales de Sistemas, con especial interés en vacantes de soporte, gestión de tickets y plataformas SAP.
+<p align="center">
+  Me considero un perfil altamente analítico, enfocado en la resolución de problemas y la optimización de recursos tecnológicos. Actualmente busco mi primera experiencia en prácticas pre-profesionales de Sistemas, con especial interés en vacantes de soporte, gestión de tickets y plataformas <b>SAP</b>.
+</p>
 
-### 🛠️ Tecnologías y Herramientas
+---
 
-*   **Desarrollo y Frameworks:** Angular, Spring Boot
-*   **Bases de Datos:** PostgreSQL
-*   **Redes e Infraestructura:** Cisco (Configuración de topologías y enrutamiento)
-*   **Gestión y Organización:** Google Colab, Trello
+<h3 align="center">🛠️ Tecnologías y Herramientas</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
+
+---
 
 ### 🚀 Proyectos Destacados
 
@@ -21,7 +31,22 @@ Soy estudiante del séptimo ciclo de Ingeniería de Sistemas de Información en 
 
 Además de mi perfil técnico, cuento con experiencia previa en investigación estructurada y participaciones en debates competitivos, lo que me ha dado facilidad para la comunicación efectiva, el trabajo en equipo y la sustentación formal de proyectos ante jurados.
 
-📫 **Conecta conmigo:**
-*   💼 [Mi LinkedIn](https://www.linkedin.com/in/diegoaguirre192)
-*   🌐 [Mi Portafolio Web](AQUÍ_IRÁ_EL_ENLACE_DE_TU_PÁGINA)
-*   ✉️ [diegoaguirre192@gmail.com](mailto:diegoaguirre192@gmail.com)
+---
+
+<h3 align="center">📈 Mis Estadísticas</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoAguirre29&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diegoaguirre192">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PÁGINA">
+    <img src="https://img.shields.io/badge/Portafolio_Web-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="mailto:diegoaguirre192@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+</p>
