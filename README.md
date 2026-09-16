@@ -21,23 +21,73 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+<h3 align="center">🚀 Proyectos Destacados</h3>
 
-*   **EcoHabit (Full-Stack):** Desarrollo de aplicación con un fuerte enfoque en la estructuración de componentes del frontend y conexión fluida con el backend.
-*   **Golden Pig (Arquitectura de Negocio):** Proyecto de análisis organizacional que incluye el diseño de marcos de seguridad de la información y diagramas de Ishikawa para la resolución de problemas empresariales.
-*   **Simulación de Topologías de Red:** Configuración, análisis de tráfico y resolución de fallos de conectividad (troubleshooting) en entornos simulados.
+<br>
 
-### 🤝 Sobre mí
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <b>EcoHabit (Full-Stack)</b>
+      <br><br>
+      Desarrollo de aplicación con un fuerte enfoque en la estructuración de componentes del frontend y conexión fluida con el backend.
+      <br><br>
+      <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
+    </td>
+    <td width="50%" align="center">
+      <!-- REEMPLAZA ESTE ENLACE CON TU IMAGEN DE ECOHABIT -->
+      <img src="https://via.placeholder.com/300x150?text=Captura+de+EcoHabit" alt="Captura de EcoHabit" style="border-radius: 10px;" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-Además de mi perfil técnico, cuento con experiencia previa en investigación estructurada y participaciones en debates competitivos, lo que me ha dado facilidad para la comunicación efectiva, el trabajo en equipo y la sustentación formal de proyectos ante jurados.
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <!-- REEMPLAZA ESTE ENLACE CON TU IMAGEN DE GOLDEN PIG -->
+      <img src="https://via.placeholder.com/300x150?text=Captura+de+Golden+Pig" alt="Captura de Golden Pig" style="border-radius: 10px;" width="100%"/>
+    </td>
+    <td valign="top" width="50%">
+      <b>Golden Pig (Arquitectura de Negocio)</b>
+      <br><br>
+      Proyecto de análisis organizacional que incluye el diseño de marcos de seguridad de la información y diagramas de Ishikawa para la resolución de problemas empresariales.
+      <br><br>
+      <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <b>Simulación de Topologías de Red</b>
+      <br><br>
+      Configuración, análisis de tráfico y resolución de fallos de conectividad (troubleshooting) en entornos simulados.
+      <br><br>
+      <a href="AQUÍ_IRÁ_EL_ENLACE_DE_TU_PROYECTO_O_REPOSITORIO">Ver Proyecto</a>
+    </td>
+    <td width="50%" align="center">
+      <!-- REEMPLAZA ESTE ENLACE CON TU IMAGEN DE REDES -->
+      <img src="https://via.placeholder.com/300x150?text=Captura+de+Simulación+de+Red" alt="Captura de Simulación de Red" style="border-radius: 10px;" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">📈 Mis Estadísticas</h3>
+<h3 align="center">🤝 Sobre mí</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoAguirre29&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  Además de mi perfil técnico, cuento con experiencia previa en investigación estructurada y participaciones en debates competitivos, lo que me ha dado facilidad para la comunicación efectiva, el trabajo en equipo y la sustentación formal de proyectos ante jurados.
 </p>
+
+---
+
+<h3 align="center">📫 Conecta conmigo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegoaguirre192">
